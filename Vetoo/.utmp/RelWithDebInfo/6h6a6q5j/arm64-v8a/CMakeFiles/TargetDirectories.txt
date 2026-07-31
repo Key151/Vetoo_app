@@ -1,0 +1,8 @@
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+E:/Taboo/TabooTeste/.utmp/RelWithDebInfo/6h6a6q5j/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

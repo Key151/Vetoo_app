@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Taboo\\TabooTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|e:\\taboo\\tabooteste\\assets\\script\\audiosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|e:\\taboo\\tabooteste\\assets\\script\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\uicontrollerrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontrollerrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\nameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\nameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\roundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\roundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\createplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\createplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\warptextexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\warptextexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\btnanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\btnanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\worddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\worddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\wordlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wordlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\enumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\uicontrollermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontrollermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\wordloaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wordloaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|E:\\Taboo\\TabooTeste\\assets\\script\\enumturnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC14DFB-D919-BC33-818F-D03FAF90A776}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enumturnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MainTCC\\JogoTCC\\Guerra Infinta\\Assets\\Scripts\\SceneBattle\\Unit\\Unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioSetting.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\AudioSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioSetting.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\AudioSetting.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T17:25:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "E:\\MainTCC\\JogoTCC\\Guerra Infinta\\Assets\\Scripts\\SceneBattle\\Unit\\Unit.cs",
+              "RelativeDocumentMoniker": "..\\..\\MainTCC\\JogoTCC\\Guerra Infinta\\Assets\\Scripts\\SceneBattle\\Unit\\Unit.cs",
+              "ToolTip": "E:\\MainTCC\\JogoTCC\\Guerra Infinta\\Assets\\Scripts\\SceneBattle\\Unit\\Unit.cs",
+              "RelativeToolTip": "..\\..\\MainTCC\\JogoTCC\\Guerra Infinta\\Assets\\Scripts\\SceneBattle\\Unit\\Unit.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:08:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Timer.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\Timer.cs",
+              "RelativeToolTip": "Assets\\Script\\Timer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:44:34.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarpTextExample.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:47:37.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Button.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Button.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\Button.cs",
+              "RelativeToolTip": "Assets\\Script\\Button.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:21:29.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoundController.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\RoundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RoundController.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\RoundController.cs",
+              "RelativeToolTip": "Assets\\Script\\RoundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:20:06.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputData.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\InputData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InputData.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\InputData.cs",
+              "RelativeToolTip": "Assets\\Script\\InputData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T23:09:05.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NameUI.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\NameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NameUI.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\NameUI.cs",
+              "RelativeToolTip": "Assets\\Script\\NameUI.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:51:42.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIControllerRun.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\UIControllerRun.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIControllerRun.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\UIControllerRun.cs",
+              "RelativeToolTip": "Assets\\Script\\UIControllerRun.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:00:42.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIControllerMenu.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\UIControllerMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIControllerMenu.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\UIControllerMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\UIControllerMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:59:33.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WordsController.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordsController.cs",
+              "RelativeToolTip": "Assets\\Script\\WordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:25:43.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WordLoadData.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordLoadData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WordLoadData.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordLoadData.cs",
+              "RelativeToolTip": "Assets\\Script\\WordLoadData.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:38:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WordList.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordList.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WordList.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordList.cs",
+              "RelativeToolTip": "Assets\\Script\\WordList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:21:36.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordData.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WordData.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\WordData.cs",
+              "RelativeToolTip": "Assets\\Script\\WordData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T19:18:37.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BtnAnima.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\BtnAnima.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BtnAnima.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\BtnAnima.cs",
+              "RelativeToolTip": "Assets\\Script\\BtnAnima.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:10:31.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "enumTurnPlayer.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\enumTurnPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\enumTurnPlayer.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\enumTurnPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\enumTurnPlayer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:35:24.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePlayer.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\CreatePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CreatePlayer.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\CreatePlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\CreatePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:12:52.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerData.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:59:14.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "enumState.cs",
+              "DocumentMoniker": "E:\\Taboo\\TabooTeste\\Assets\\Script\\enumState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\enumState.cs",
+              "ToolTip": "E:\\Taboo\\TabooTeste\\Assets\\Script\\enumState.cs",
+              "RelativeToolTip": "Assets\\Script\\enumState.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:01:19.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# ninja log v5
+59	6303	8025675425896753	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d354ea3d7ed30ade
+158	1186	8025675374937879	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b0099cf09f8dae29
+1187	5941	8025675422381282	E:/Taboo/TabooTeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6h6a6q5j/obj/arm64-v8a/libswappywrapper.so	eb3d5d0f90410f54
+70	5572	8025675417002310	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a85b718464e3f7a3
+130	4633	8025675406227823	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7f341b17e0cb1e2
+52	5610	8025675418835093	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	228a2a542991b48
+138	5794	8025675420797919	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	25da1acfe89a0b08
+98	5525	8025675416737093	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8344284f16e22aee
+83	5872	8025675421616573	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5f27444b91752b54
+112	6128	8025675424359897	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c7eb735309e5764b
+6304	7364	8025675435460777	E:/Taboo/TabooTeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6h6a6q5j/obj/arm64-v8a/libgame.so	8511b2f046585d58
+127	1262	8071619702924859	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	632992266b5ed7cb
+1263	2991	8071619720377922	E:/Taboo/TabooTeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6h6a6q5j/obj/arm64-v8a/libswappywrapper.so	651bb0006fce5d86
+95	3241	8071619721858183	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	949a636fa1ce3946
+85	3242	8071619722453290	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	be7b7f672104607
+12	3258	8071619723028390	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	622380fa982439b
+67	3608	8071619726198943	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9dabe5ffc0a81273
+116	3612	8071619725528827	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5e97868896401495
+77	4010	8071619730579712	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	72020345d90caba7
+106	4028	8071619730834759	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9537746abf7ffdd0
+60	4668	8071619737365903	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6aaa08b685f2d8e0
+4669	6716	8071619750698243	E:/Taboo/TabooTeste/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6h6a6q5j/obj/arm64-v8a/libgame.so	1db3e839d53fac03
