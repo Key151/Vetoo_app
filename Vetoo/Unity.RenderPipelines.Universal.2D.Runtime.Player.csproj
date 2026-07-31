@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B4566084-BB5B-763C-C9CE-5A6C741E69E8}</ProjectGuid>
+    <ProjectGuid>{873EB2B2-78AB-6C6B-749E-53CF9F050EA9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Universal.2D.Runtime</AssemblyName>
@@ -904,35 +904,35 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Player.csproj">
-      <Project>{05C09C29-A3AC-4456-599C-8540155FEE8D}</Project>
+      <Project>{A77C65D0-9852-9F69-FA41-5CB774FB6AD3}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Player.csproj">
-      <Project>{FD62B94F-8473-788C-14F9-8FD8A0C55F4F}</Project>
+      <Project>{D5A79016-0931-4E0D-C256-5257140B669D}</Project>
       <Name>Unity.Mathematics.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.Player.csproj">
-      <Project>{1FBA3C6E-CC90-5810-A769-4EE1DF8E2430}</Project>
+      <Project>{4568B432-4832-22CE-3930-715206C1075D}</Project>
       <Name>Unity.RenderPipelines.Universal.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj">
-      <Project>{23EFFC5E-65F4-B3F4-CCAE-FD6E572E9894}</Project>
+      <Project>{D0F3BAAC-117C-2F07-598F-75F838E96721}</Project>
       <Name>Unity.RenderPipeline.Universal.ShaderLibrary.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Runtime.Player.csproj">
-      <Project>{6DAB0C45-2A1E-A236-8DAC-CF55BEA7DBC0}</Project>
+      <Project>{2888CFD3-0430-4393-CE12-FD496CD6C61D}</Project>
       <Name>Unity.2D.Animation.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.SpriteShape.Runtime.Player.csproj">
-      <Project>{51040925-20CB-3303-0BE3-C7786659A5D1}</Project>
+      <Project>{9DD9035B-BDE2-4C54-B569-F1DB0A38BF54}</Project>
       <Name>Unity.2D.SpriteShape.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Player.csproj">
-      <Project>{F96A4363-2B88-E9CF-EE7B-AD40A3ED63FA}</Project>
+      <Project>{8FC7BB4C-12C8-5DE2-F76A-71680147087B}</Project>
       <Name>Unity.Burst.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{A170A94D-1BD4-75A8-7746-BEC64A2B3DAE}</Project>
+      <Project>{FD47E8A0-41C8-8402-9B90-B8DD8D1C059C}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1FBA3C6E-CC90-5810-A769-4EE1DF8E2430}</ProjectGuid>
+    <ProjectGuid>{4568B432-4832-22CE-3930-715206C1075D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Universal.Runtime</AssemblyName>
@@ -1024,35 +1024,35 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Player.csproj">
-      <Project>{05C09C29-A3AC-4456-599C-8540155FEE8D}</Project>
+      <Project>{A77C65D0-9852-9F69-FA41-5CB774FB6AD3}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Shared.Player.csproj">
-      <Project>{9391C1E1-1003-D791-764A-F23AE655D3B6}</Project>
+      <Project>{4028537E-91EF-9290-6A18-78061FE2E32D}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime.Shared.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj">
-      <Project>{23EFFC5E-65F4-B3F4-CCAE-FD6E572E9894}</Project>
+      <Project>{D0F3BAAC-117C-2F07-598F-75F838E96721}</Project>
       <Name>Unity.RenderPipeline.Universal.ShaderLibrary.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Player.csproj">
-      <Project>{FD62B94F-8473-788C-14F9-8FD8A0C55F4F}</Project>
+      <Project>{D5A79016-0931-4E0D-C256-5257140B669D}</Project>
       <Name>Unity.Mathematics.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Player.csproj">
-      <Project>{F96A4363-2B88-E9CF-EE7B-AD40A3ED63FA}</Project>
+      <Project>{8FC7BB4C-12C8-5DE2-F76A-71680147087B}</Project>
       <Name>Unity.Burst.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.GPUDriven.Runtime.Player.csproj">
-      <Project>{195A1218-8AB9-2B14-4DC9-DBA35997B1D9}</Project>
+      <Project>{E986FDF4-9705-A82B-364D-DD567A489219}</Project>
       <Name>Unity.RenderPipelines.GPUDriven.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.Player.csproj">
-      <Project>{D47EF1A1-30E3-18FC-D1CA-55CB9CEC94B8}</Project>
+      <Project>{5C88066F-9278-7248-9AFF-310EC15EB4D3}</Project>
       <Name>Unity.RenderPipelines.Universal.Config.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{A170A94D-1BD4-75A8-7746-BEC64A2B3DAE}</Project>
+      <Project>{FD47E8A0-41C8-8402-9B90-B8DD8D1C059C}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

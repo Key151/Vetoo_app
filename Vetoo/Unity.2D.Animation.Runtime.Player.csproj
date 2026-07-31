@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6DAB0C45-2A1E-A236-8DAC-CF55BEA7DBC0}</ProjectGuid>
+    <ProjectGuid>{2888CFD3-0430-4393-CE12-FD496CD6C61D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Runtime</AssemblyName>
@@ -879,31 +879,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Common.Runtime.Player.csproj">
-      <Project>{F4E1E97B-F34C-8EE2-723F-1E53F826FD60}</Project>
+      <Project>{8386FBE9-93C7-62A7-0F64-D533D3E29F76}</Project>
       <Name>Unity.2D.Common.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.Player.csproj">
-      <Project>{8DE5236D-6FE6-F49E-D1DF-139603B63FCC}</Project>
+      <Project>{AA15BF9F-5AEE-B382-D48A-96F5909F1014}</Project>
       <Name>Unity.InternalAPIEngineBridge.001.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Player.csproj">
-      <Project>{FD62B94F-8473-788C-14F9-8FD8A0C55F4F}</Project>
+      <Project>{D5A79016-0931-4E0D-C256-5257140B669D}</Project>
       <Name>Unity.Mathematics.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Player.csproj">
-      <Project>{F96A4363-2B88-E9CF-EE7B-AD40A3ED63FA}</Project>
+      <Project>{8FC7BB4C-12C8-5DE2-F76A-71680147087B}</Project>
       <Name>Unity.Burst.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.Player.csproj">
-      <Project>{42C825E2-5539-3D4D-89C2-56EED4C981DD}</Project>
+      <Project>{F2109746-C5B3-7519-D436-7246B009F798}</Project>
       <Name>Unity.Collections.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.Player.csproj">
-      <Project>{1FBA3C6E-CC90-5810-A769-4EE1DF8E2430}</Project>
+      <Project>{4568B432-4832-22CE-3930-715206C1075D}</Project>
       <Name>Unity.RenderPipelines.Universal.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{A170A94D-1BD4-75A8-7746-BEC64A2B3DAE}</Project>
+      <Project>{FD47E8A0-41C8-8402-9B90-B8DD8D1C059C}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

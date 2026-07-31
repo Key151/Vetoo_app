@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{92204D7E-CCB5-3735-9246-320E7DED995A}</ProjectGuid>
+    <ProjectGuid>{0E29AC66-250A-CEC4-895F-13C9BF34FB52}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Core.Runtime.Shared</AssemblyName>
@@ -1090,15 +1090,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{4DD786C7-69A2-77EF-7BF7-E91F220AE718}</Project>
+      <Project>{4B6313D0-8EF8-25E7-05D1-0BABA61B40FA}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{8C90BB81-AB8D-088F-AF37-3E3140CA7585}</Project>
+      <Project>{3E33201D-EC01-CCF4-7821-4DD3041D44EB}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{74887592-DF5F-223E-8F5F-C630E4BE978C}</Project>
+      <Project>{E29A011D-C252-07DA-7845-B5FB335C6821}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
