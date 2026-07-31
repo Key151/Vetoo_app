@@ -6,6 +6,9 @@ A cada rodada, um jogador assume o papel de narrador e tenta ajudar sua equipe a
 O jogo continua alternando entre as equipes até o término da partida ou até atingir a pontuação definida. Ao final, a equipe com o maior número de pontos é declarada vencedora.
 O principal objetivo do Vetoo é proporcionar diversão, estimular a criatividade dos jogadores e incentivar a comunicação e o trabalho em equipe de forma dinâmica e descontraída.
 
+## 📥 Download  
+[![Vetoo APK](https://shields.io)](https://github.com/Key151/Vetoo/releases/download/v1.0.0/Vetoo.apk)  
+
 ## Explicação mais detalhada das regras (vídeo de 2min):
 https://www.youtube.com/watch?v=l-3mPvP02Ew
 
