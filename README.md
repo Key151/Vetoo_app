@@ -1,7 +1,7 @@
 # Vetoo
 
 ## Descrição da Proposta:
-Vetoo é um jogo de tabuleiro inspirado no Tabu, desenvolvido para ser jogado entre duas equipes. O objetivo é fazer com que seus companheiros descubram a palavra principal exibida na carta, utilizando dicas e descrições, sem mencionar nenhuma das palavras proibidas associadas a ela.
+Vetoo é um jogo de celular inspirado no jogo de tabuleiro Tabu, desenvolvido para ser jogado entre duas equipes. O objetivo é fazer com que seus companheiros descubram a palavra principal exibida na carta, utilizando dicas e descrições, sem mencionar nenhuma das palavras proibidas associadas a ela.
 A cada rodada, um jogador assume o papel de narrador e tenta ajudar sua equipe a acertar a palavra principal dentro do tempo disponível. Caso utilize uma das palavras proibidas durante a explicação, a jogada é considerada inválida. Quando a equipe acerta a palavra, ganha um ponto e uma nova carta é apresentada.
 O jogo continua alternando entre as equipes até o término da partida ou até atingir a pontuação definida. Ao final, a equipe com o maior número de pontos é declarada vencedora.
 O principal objetivo do Vetoo é proporcionar diversão, estimular a criatividade dos jogadores e incentivar a comunicação e o trabalho em equipe de forma dinâmica e descontraída.
