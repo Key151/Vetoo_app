@@ -1,10 +1,13 @@
 # Pastas geradas automaticamente pela Unity
 **/[Ll]ibrary/
 **/[Ll]ogs/
-**/[Uu]ser[厂]ettings/
+**/[Uu]ser[Ss]ettings/
 **/[Oo]bj/
 **/[Bb]uild/
 **/[Bb]uilds/
 **/[Tt]emp/
 **/.vs/
+**/.vscode/
+.vsconfig
 Unity.*
+UnityEditor..*
