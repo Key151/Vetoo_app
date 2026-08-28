@@ -8,6 +8,7 @@
 **/[Tt]emp/
 **/.vs/
 **/.vscode/
+**/.utmp/
 .vsconfig
-Unity.*
-UnityEditor..*
+*.csproj
+*.sln
