@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\enumTurnPlayer.cs" />
+    <Compile Include="Assets\Script\AudioManager.cs" />
     <Compile Include="Assets\Script\CreatePlayer.cs" />
     <Compile Include="Assets\Script\FinishTimer.cs" />
     <Compile Include="Assets\Script\UIControllerRun.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="Assets\Script\InputData.cs" />
     <Compile Include="Assets\Script\WordData.cs" />
     <Compile Include="Assets\Script\WordList.cs" />
+    <Compile Include="Assets\Script\ScriptableObjectAudio.cs" />
     <Compile Include="Assets\Script\enumState.cs" />
     <Compile Include="Assets\Script\NameUI.cs" />
     <Compile Include="Assets\Script\RoundController.cs" />

@@ -6,3 +6,5 @@
 **/[Bb]uild/
 **/[Bb]uilds/
 **/[Tt]emp/
+**/.vs/
+Unity.*
