@@ -2575,7 +2575,7 @@ GameObject:
   - component: {fileID: 863797589}
   - component: {fileID: 863797588}
   m_Layer: 0
-  m_Name: BGM
+  m_Name: AudioControl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2686,12 +2686,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 863797587}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 127.95981, y: 1642.5287, z: -6.458366}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -207.26886, y: 1049.5259, z: -0.6295209}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1887420138}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &883547670
 GameObject:
@@ -6324,6 +6324,7 @@ Transform:
   - {fileID: 1055720384}
   - {fileID: 1334818427}
   - {fileID: 1795840544}
+  - {fileID: 863797589}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1888142688
@@ -7874,6 +7875,5 @@ SceneRoots:
   - {fileID: 7560439641211622394}
   - {fileID: 146926059}
   - {fileID: 920160610}
-  - {fileID: 863797589}
   - {fileID: 1887420138}
   - {fileID: 62460573}
