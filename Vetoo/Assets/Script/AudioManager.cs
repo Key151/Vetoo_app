@@ -13,16 +13,14 @@ public class AudioManager : MonoBehaviour
 
     public void Awake()
     {
-        if (Instance == null)
+        if (Instance != null && Instance != this) //Se já existir uma instância do AudioManager, destrua o objeto atual
         {
-            Instance = this;
-            bgmSource.volume = 1.0f;
-            seSource.volume = 1.0f;
-            PlayBGM("BGM01");
-            DontDestroyOnLoad(gameObject);
+            Destroy(gameObject);
+            return;
         }
 
-        else Destroy(gameObject);
+        Instance = this; //Atribui a instância atual do AudioManager à propriedade Instance
+        DontDestroyOnLoad(gameObject);
     }
 
     //------------------BGM------------------
@@ -49,10 +47,16 @@ public class AudioManager : MonoBehaviour
     public void SetVolumeBGM(float volume)
     {
         bgmSource.volume = volume;
+        Debug.Log("Volume BGM alterado para: " + bgmSource.volume);
+    }
+
+    public float GetVolumeBGM()
+    {
+        return bgmSource.volume;
     }
 
     //------------------SE------------------
-    
+
     public void PlaySE(string key)
     {
         var clip = seLibrary.GetClip(key);
@@ -73,5 +77,9 @@ public class AudioManager : MonoBehaviour
     public void SetVolumeSE(float volume)
     {
         seSource.volume = volume;
+    }
+    public float GetVolumeSE()
+    {
+        return seSource.volume;
     }
 }

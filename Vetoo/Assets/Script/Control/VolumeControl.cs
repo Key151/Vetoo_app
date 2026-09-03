@@ -1,11 +1,18 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class VolumeControl : MonoBehaviour
 {
     [Header("Sliders")]
 
-    [SerializeField] private UnityEngine.UI.Slider bgmSlider;
-    [SerializeField] private UnityEngine.UI.Slider seSlider;
+    [SerializeField] private Slider bgmSlider;
+    [SerializeField] private Slider seSlider;
+
+    private void Start()
+    {
+        bgmSlider.value = AudioManager.Instance.GetVolumeBGM();
+        //seSlider.value = AudioManager.Instance.GetVolumeSE();
+    }
 
     public void OnVolumeBGM()
     {

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BMG
   m_EditorClassIdentifier: 
   audioClips:
-  - name: BMG01
+  - name: BGM01
     clip: {fileID: 8300000, guid: e35338a21430d134fbaa55279be91ae3, type: 3}
-  - name: BMG02
+  - name: BGM02
     clip: {fileID: 8300000, guid: a58694d7c0906fb4eac4b29c67ecdc7f, type: 3}
